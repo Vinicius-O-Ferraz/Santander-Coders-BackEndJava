@@ -4,7 +4,8 @@ I am currently a undergrad student of one of the most prestigious universities o
 I also study Backend Development and Embedded Systems. I love animals, martial arts, music and videogames.
 
 # Contact
-I would love to talk to you. Message me, and we will contribute to your solution!
+I would love to talk to you. Message me, and I will contribute to your solution!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vin%C3%ADcius-ferreira-5b9b37149/)
 
 
