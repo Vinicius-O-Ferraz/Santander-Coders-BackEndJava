@@ -4,39 +4,36 @@
     <span> Santander Coders BackEnd Java</span>
 </h1>
 
-## Descrição
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+## Description
+This repository is all about the Santander Bootcamp 2024 Back-end Java track! Now we will learn everything from the very first steps with Java, starting with basic syntax to implementing an API using Spring to become an attractive professional in the market.
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+### Presented by:
+<p align="center">
+  <img src="https://github.com/Vinicius-O-Ferraz/Santander-Coders-BackEndJava/assets/146992032/0fb8f816-726c-439c-8c70-7ced7df0fdc7" width="50%" height="auto" alt="Dio_Logo" style="float: left;" /><img src="https://github.com/Vinicius-O-Ferraz/Santander-Coders-BackEndJava/assets/146992032/a5e11edc-ac42-480c-aca3-1381c619e9fd"  width="50%" height="auto" style="float: left;" />
+</p>
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+## What you'll learn during this bootcamp:
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+* Collaborative Software Development Principles: Master the fundamentals of collaborative software development methodologies to effectively work in teams and deliver high-quality projects.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+* Java Programming Language Mastery: Gain a comprehensive understanding of Java programming language, from basic syntax and data types to object-oriented programming concepts and advanced features.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+* Object-Oriented Programming with Java: Delve into the principles of object-oriented programming using Java, including encapsulation, inheritance, polymorphism, and abstraction, to create maintainable and reusable code.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+* Testing and Dependency Management in Java Projects: Learn how to implement effective testing strategies and utilize dependency management tools to ensure the quality, reliability, and maintainability of Java projects.
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+* SQL and NoSQL Databases for Back-end Developers: Explore both SQL and NoSQL databases, understanding their strengths, weaknesses, and applications, to choose the appropriate data storage solution for back-end development needs.
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+* Boosting Productivity with Spring Framework and Java: Master the Spring Framework, a popular Java framework, to streamline development, manage dependencies, and build scalable and maintainable web applications.
+
+* Soft Skills in the Agile Era: Connecting People and Opportunities: Develop essential soft skills for success in the agile environment, including communication, teamwork, problem-solving, and adaptability, to connect with people and seize opportunities in the dynamic tech landscape.
+
+
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?style=for-the-badge&logo=junit5&logoColor=dc524a)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
 
-## License
-For open source projects, say how it is licensed.
+Hello my name is Vinicius. I am currently a undergrad student of one of the most prestigious universities of my region: UFRPE. I also study Backend Development and Embedded Systems. I love animals, martial arts, music and videogames.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
