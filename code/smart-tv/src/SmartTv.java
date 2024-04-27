@@ -26,4 +26,9 @@ public class SmartTv {
     public void decreaseChannel(){
         channel++;
     }
+    
+    
+    public void setChannel(int k ){
+        channel = k;
+    }
 }

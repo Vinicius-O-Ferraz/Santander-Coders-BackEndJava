@@ -5,9 +5,7 @@ public class Usuario {
         
         System.out.println();
         System.out.println();
-        System.out.println();
-        System.out.println();
-        
+
         System.out.println("Tv está ligada: " + smartTv.turnedOn);
         System.out.println("Qual canal a tv está: " + smartTv.channel);
         System.out.println("Qual volume a tv está: " + smartTv.volume);
@@ -22,7 +20,10 @@ public class Usuario {
         System.out.println("Qual canal a tv está: " + smartTv.channel);
         smartTv.decreaseChannel();
         System.out.println("Qual canal a tv está: " + smartTv.channel);
+        smartTv.setChannel(13);
+        System.out.println("Qual canal a tv está: " + smartTv.channel);
 
+        
 
     }
 }
