@@ -22,8 +22,5 @@ public class Usuario {
         System.out.println("Qual canal a tv está: " + smartTv.channel);
         smartTv.setChannel(13);
         System.out.println("Qual canal a tv está: " + smartTv.channel);
-
-        
-
     }
 }
